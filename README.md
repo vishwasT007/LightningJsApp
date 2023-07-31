@@ -1,7 +1,5 @@
 # MyMovieApp
 
-## Live URL: https://anandpatel0123.github.io/MyMovieApp/
-
 ### Getting started
 
 > Before you follow the steps below, make sure you have the
